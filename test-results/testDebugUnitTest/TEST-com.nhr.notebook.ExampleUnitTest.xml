@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.nhr.notebook.ExampleUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-11-01T07:34:02" hostname="NHR" time="0.004">
+  <properties/>
+  <testcase name="addition_isCorrect" classname="com.nhr.notebook.ExampleUnitTest" time="0.004"/>
+  <system-out><![CDATA[现在时刻是2021年11月1日15时34分2秒
+2021  11 11
+周四
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
